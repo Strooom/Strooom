@@ -1,4 +1,4 @@
-I am a freelance hardware and firmware developer.
+I am a freelance hardware and firmware developer. By taking care of both hardware and firmware in a design, I ensure that both hardware and firmware are optimized for each other, resulting in a better product.
 # Hardware competences:
 * schematics and PCB design, using KiCAD
 * STM32, ESP32
@@ -10,5 +10,5 @@ I am a freelance hardware and firmware developer.
 * bare metal frameworks
 * STM32, ESP32, ARM
 * C++
-* Test-Driven Design Methodology (TDD
+* Test-Driven Design Methodology (TDD)
   
